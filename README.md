@@ -22,3 +22,20 @@
 
 </details>
 
+<details>
+  <summary> Day 4 Lab  </summary>
+
+  ![image](https://github.com/user-attachments/assets/568d5c15-9eb0-4d5d-8e20-1f8bb54f48ed)
+
+
+
+</details>
+
+<details>
+  <summary> Day 5 Lab  </summary>
+  
+
+
+</details>
+
+
