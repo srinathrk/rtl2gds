@@ -34,6 +34,7 @@
 <details>
   <summary> Final steps for RTL2GDS using tritonRoute and openSTA </summary>
   
+![image](https://github.com/user-attachments/assets/0317a60e-b1e7-4b9e-b6fb-84ff59a04230)
 
 
 </details>
