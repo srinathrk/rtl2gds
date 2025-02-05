@@ -43,7 +43,9 @@
   <summary> Acknowledgements </summary>
 
 [Kunal P Ghosh](https://github.com/kunalg123)  : Director and co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+
 [Nickson Jose](https://github.com/nickson-jose) : Technical Lead @HCLTech , Ex-Intel
+
 [R. Timothy Edwards](https://github.com/RTimothyEdwards) : Senior Vice President of Analog and Design at efabless corporation
 
 </details>
